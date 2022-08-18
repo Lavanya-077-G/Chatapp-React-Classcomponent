@@ -21,7 +21,7 @@ export default class App extends Component {
   };
 
   render() {
-      
+    
     return (
       <div className="user">
         <Container val={this.person1} messages={this.state.person1Message}  func={this.messagearrupdate} />
