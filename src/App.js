@@ -10,7 +10,7 @@ export default class App extends Component {
       id: "person1",
     };
     this.person2 = {
-      name: "Usha",
+      name: "Usha K V",
       id: "person2",
     };
   }
