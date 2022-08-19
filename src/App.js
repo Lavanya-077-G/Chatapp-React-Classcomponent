@@ -7,10 +7,11 @@ export default class App extends Component {
     this.state = { person1Message: [], person2Message: [] };
     this.person1 = {
       name: "Lavanya",
+
       id: "person1",
     };
     this.person2 = {
-      name: "guru",
+      name: "guru Akash",
       id: "person2",
     };
   }
