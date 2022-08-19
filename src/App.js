@@ -6,7 +6,8 @@ export default class App extends Component {
     super();
     this.state = { person1Message: [], person2Message: [] };
     this.person1 = {
-      name: "LavanyaLatha",
+      name: "Lavanya",
+
       id: "person1",
     };
     this.person2 = {
